@@ -20,6 +20,3 @@ if __name__ == '__main__':
     s=input()
     minon_game(s)
 print("hello")
-addition=a+b
-subtraction=a-b
-multiplication=a*b
